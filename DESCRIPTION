@@ -8,3 +8,6 @@ Description: Shorten your code, make things clean and stable.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports:
+    dplyr,
+    rlang
